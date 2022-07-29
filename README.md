@@ -1,8 +1,7 @@
-## Olá, eu sou o Rhaniel Miranda, tudo bem? 👋
+## Olá, eu sou o Rhaniel Miranda👋, tudo certo? 
 
 - 🔭 Hoje trabalho como Backend ...
 - 🌱 Estudando Nodejs e Api's ...
-- 😄 Pronomes: Ele/Dele ...
 ##
 <div align="center">
   <a href="https://github.com/rafaballerini">
